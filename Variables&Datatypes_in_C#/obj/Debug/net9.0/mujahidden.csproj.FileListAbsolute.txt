@@ -1,0 +1,14 @@
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\bin\Debug\net9.0\mujahidden.exe
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\bin\Debug\net9.0\mujahidden.deps.json
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\bin\Debug\net9.0\mujahidden.runtimeconfig.json
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\bin\Debug\net9.0\mujahidden.dll
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\bin\Debug\net9.0\mujahidden.pdb
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\mujahidden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\mujahidden.AssemblyInfoInputs.cache
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\mujahidden.AssemblyInfo.cs
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\mujahidden.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\mujahidden.dll
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\refint\mujahidden.dll
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\mujahidden.pdb
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\mujahidden.genruntimeconfig.cache
+C:\Users\Teacher\Desktop\C#_Learning\mujahidden\obj\Debug\net9.0\ref\mujahidden.dll
