@@ -1,0 +1,14 @@
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\bin\Debug\net9.0\conditons&switch_case_work.exe
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\bin\Debug\net9.0\conditons&switch_case_work.deps.json
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\bin\Debug\net9.0\conditons&switch_case_work.runtimeconfig.json
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\bin\Debug\net9.0\conditons&switch_case_work.dll
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\bin\Debug\net9.0\conditons&switch_case_work.pdb
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\conditons&switch_case_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\conditons&switch_case_work.AssemblyInfoInputs.cache
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\conditons&switch_case_work.AssemblyInfo.cs
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\conditons&switch_case_work.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\conditons&switch_case_work.dll
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\refint\conditons&switch_case_work.dll
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\conditons&switch_case_work.pdb
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\conditons&switch_case_work.genruntimeconfig.cache
+C:\Users\Teacher\Desktop\C#_Learning\conditons&switch_case_work\obj\Debug\net9.0\ref\conditons&switch_case_work.dll
