@@ -1,0 +1,14 @@
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\bin\Debug\net9.0\Loops_in_C#.exe
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\bin\Debug\net9.0\Loops_in_C#.deps.json
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\bin\Debug\net9.0\Loops_in_C#.runtimeconfig.json
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\bin\Debug\net9.0\Loops_in_C#.dll
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\bin\Debug\net9.0\Loops_in_C#.pdb
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\Loops_in_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\Loops_in_C#.AssemblyInfoInputs.cache
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\Loops_in_C#.AssemblyInfo.cs
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\Loops_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\Loops_in_C#.dll
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\refint\Loops_in_C#.dll
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\Loops_in_C#.pdb
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\Loops_in_C#.genruntimeconfig.cache
+C:\Users\Teacher\Desktop\C#_Learning\Loops_in_C#\obj\Debug\net9.0\ref\Loops_in_C#.dll
